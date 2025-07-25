@@ -1,4 +1,6 @@
-Task 1: Read a File and Handle Errors 
+Module 6: Data Structures and Strings in Python
+
+Task 1: Create a Dictionary of Student Marks
 
 my_dict = {'nikhil':57,'raju':70,'vinay':80}
 student = input('Enter a student\'s name: ')
@@ -8,7 +10,7 @@ else:
     print('Student not found')
 
 
-Task 2: Write and Append Data to a File
+Task 2: Demonstrate List Slicing 
 
 my_list = [1,2,3,4,5,6,7,8,9,10]
 print('Original list:',my_list)
